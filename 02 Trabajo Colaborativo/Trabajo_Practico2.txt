@@ -1,0 +1,5 @@
+actividad 2:
+https://github.com/Tinchodomi/Tp2_crear_repositorio
+
+actividad 3:
+https://github.com/Tinchodomi/Tp2_conflict-exercise
