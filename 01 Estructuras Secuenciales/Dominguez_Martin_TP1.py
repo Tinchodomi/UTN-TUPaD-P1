@@ -85,8 +85,3 @@ promedio = (numero1 + numero2 + numero3) / 3
 print("El promedio es:", promedio)
 
 '''
-a = 10
-b = 3.0
-c = a * b
-d = a + b
-print(f'c = {c}, d = {d}')
