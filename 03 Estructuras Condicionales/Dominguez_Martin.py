@@ -113,7 +113,7 @@ elif magnitud >=6 and magnitud < 7:
 else:
     print("Extremo")
 
-'''
+
 #10
 
 hemisferio = input("¿En qué hemisferio te encuentras? (N/S): ").strip().upper()  
@@ -146,8 +146,7 @@ else:
 print(f"En el hemisferio {hemisferio}, la estación es: {estacion}.")  
 
      
-
-
+'''
 
 
 
