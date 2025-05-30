@@ -94,7 +94,7 @@ def celsius_a_fahenheit(celsius):
 celsius = int(input("Ingrese los Grados Celsius: "))
 print(celsius_a_fahenheit(celsius))
 
-'''
+
 def calcular_promedio(a,b,c):
     resultado = (a+b+c)/3
     return resultado
@@ -104,3 +104,5 @@ n1 = int(input("Ingrese primer numero:"))
 n2 = int(input("Ingrese segundo numero:"))
 n3 = int(input("Ingrese tercer numero:"))
 print(calcular_promedio(n1,n2,n3))
+'''
+
