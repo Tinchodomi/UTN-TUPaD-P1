@@ -64,7 +64,7 @@ def contar_bloques(n):
       
 
 print(contar_bloques(4))
-'''
+
 def contar_digito(n, d):
         if n <= 0:
             return 0
@@ -78,3 +78,4 @@ def contar_digito(n, d):
 
 print(contar_digito(1131132211,1))
               
+'''
